@@ -1,0 +1,8 @@
+Dépôt Final Chat Larmignat Thomas
+
+Pour lancer le serveur -> Serveur/Serveur.class
+Pour lancer le client -> Client/Interface.class
+
+Si problème avec la sauvegarde, il faut changer le path dans le fichier Serveur/client.java et recompiler. 
+Le fichier sauvegarde se trouve  la racine du dossier, sous le nom de « SaveChat ».
+

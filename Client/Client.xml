@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROJET NOM="Client" TYPE="Java">
+  <FICHIER>Chat_ClientServeur.java</FICHIER>
+  <FICHIER>Client.java</FICHIER>
+  <FICHIER>Connexion.java</FICHIER>
+  <FICHIER>Emission.java</FICHIER>
+  <FICHIER>Reception.java</FICHIER>
+  <FICHIER>Interface.java</FICHIER>
+  <FICHIER>JColorTextPane.java</FICHIER>
+  <FICHIER>Message.java</FICHIER>
+  <FICHIER>MessageListe.java</FICHIER>
+  <FICHIER>Sauvegarde.java</FICHIER>
+  <FICHIER>Options.java</FICHIER>
+  <FICHIER>MessagePrive.java</FICHIER>
+  <FICHIER>ActivableButton.java</FICHIER>
+</PROJET>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROJET NOM="ChatOC" TYPE="Java">
+  <FICHIER>Accepter_connexion.java</FICHIER>
+  <FICHIER>Authentification.java</FICHIER>
+  <FICHIER>Chat_ClientServeur.java</FICHIER>
+  <FICHIER>Reception.java</FICHIER>
+  <FICHIER>Serveur.java</FICHIER>
+  <FICHIER>MessagePrive.java</FICHIER>
+  <FICHIER>Clients.java</FICHIER>
+  <FICHIER>Sauvegarde.java</FICHIER>
+</PROJET>
+
